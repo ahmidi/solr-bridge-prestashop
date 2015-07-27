@@ -1,0 +1,1 @@
+Advanced solr search module for prestashop
